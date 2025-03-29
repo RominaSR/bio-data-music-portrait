@@ -1,4 +1,4 @@
-# 🎼 **Bio-data music portrait – Translating saliva into Music** 
+# 🎼 **Bio-data music portrait – Translating saliva into music** 
 
 🔬 **A data-driven approach to composing music from biological signals**  
 
